@@ -14,4 +14,4 @@ Kompajliranje:
   
 Korištenje:
 
-  ./oib <oib>
+  ./oib \<oib\>
